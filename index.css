@@ -34,8 +34,9 @@ h1 {
     font-size: 36px;
     
 }
-footer 
+footer {
     display: flex;
     justify-content: center;
 }
+
     
